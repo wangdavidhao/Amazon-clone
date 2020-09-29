@@ -46,6 +46,12 @@
     margin-left: 10px;
     margin-right: 10px;
     color: white;
+    padding: 10px;
+}
+
+.header__option:hover{
+    border-radius: 3px;
+    border: 1px solid white;
 }
 
 .header__option1{
