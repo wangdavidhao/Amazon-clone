@@ -27,8 +27,16 @@
     color:#111;
 }
 
+.product_price{
+    margin-top: 5px;
+    
+}
+
 .product__info{
     height: 100px;
+    margin: 0;
+    margin-bottom: 15px;
+    width: 100%;
 }
 
 .product__rating{
